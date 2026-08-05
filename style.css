@@ -65,9 +65,6 @@ body {
   gap: 24px;
 }
 
-.dropdown:focus-within .menu-list {
-  display: flex;
-}
 .menu-btn:focus ~ .menu-list {
   display: flex;
 }
